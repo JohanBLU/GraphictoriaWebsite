@@ -1,0 +1,5 @@
+Satisfy Any
+Allow from all
+
+RewriteEngine on
+CheckSpelling on
